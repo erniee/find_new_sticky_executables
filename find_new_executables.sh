@@ -3,7 +3,7 @@
 ####################################################################################################################
 #Script Name: find_new_executables.sh
 #Description: This script is idempotent. The following will happen if run.
-#Author: Ernesto Espinosa <ernesto.espinosa@bylight.com> <ernesto.espinosa.ctr@spaceforce.mil> 
+#Author: Ernesto Espinosa <ernesto.espinosa@gmail.com>
 #Date: 2025-09-28
 #Version: 2.1.0
 #License: MIT License (or relevant License)
